@@ -73,4 +73,9 @@ public:
         }
     }
 
-    
+    void display()
+    {
+        int FRONT_Position = FRONT;
+        int REAR_Position = REAR;
+
+        
